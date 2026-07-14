@@ -2,6 +2,8 @@
 
 This mod adds native VR (Virtual Reality) support using the OpenXR API to the original *PainKiller* video game developed by *People Can Fly* and published by *DreamCatcher*.
 
+![Screenshot](screenshot.png)
+
 ## Requirements
 
 The mod requires the latest version (1.64) of *PainKiller* (*PainKiller: Heaven’s Got a Hitman*) and/or *PainKiller: Battle Out of Hell* video games.
