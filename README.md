@@ -33,3 +33,7 @@ This mod is compatible with other mods that do not modify the game’s executabl
 ## Plays well with
 
 [PainKiller Advanced Cheats](https://github.com/FluorescentHallucinogen/PainCheats)
+
+## See also
+
+[PainKiller SBS (Side-by-Side) Stereo Mod](https://github.com/FluorescentHallucinogen/painkiller-sbs-stereo-mod)
