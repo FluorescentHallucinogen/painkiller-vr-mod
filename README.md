@@ -12,7 +12,7 @@ It was tested only with [*PainKiller: Black Edition* on Steam](https://store.ste
 
 ## Install
 
-1. Download the [ZIP archive with the mod](https://github.com/FluorescentHallucinogen/painkiller-vr-mod/releases/latest/download/painkiller-vr-mod_0.1.0.zip).
+1. Download the [ZIP archive with the mod](https://github.com/FluorescentHallucinogen/painkiller-vr-mod/releases/latest/download/painkiller-vr-mod_0.1.1.zip).
 
 2. Place the `*.exe` and `*.dll` files from the ZIP archive’s `/Bin` directory into the game’s `/Bin` directory.
 
